@@ -1,4 +1,4 @@
-import cv2
+import cv2 # type: ignore
 
 # img = cv2.imread("images/1.jpg")
 # img = cv2.resize(img, (500, 300))

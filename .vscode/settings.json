@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\Mr.Slime\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+    "python.linting.enabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "python.terminal.executeInFileDir": false,
+    "python.terminal.dontPromptOnRunAll": false,
+    "[python]": {
+        "editor.defaultFormatter": null,
+        "editor.formatOnSave": false
+    }
+}
