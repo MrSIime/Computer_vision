@@ -61,3 +61,4 @@ for file_name in file_names:
 
 
     cv2.imwrite(f"out_images/{(file_name.split("."))[0]}_out.jpg", frame)
+
