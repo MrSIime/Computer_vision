@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras import layers
+from tensorflow import keras # type: ignore
+from tensorflow.keras import layers # type: ignore
 from sklearn.preprocessing import LabelEncoder
 import matplotlib.pyplot as plt
 
